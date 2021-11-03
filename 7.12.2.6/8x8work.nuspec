@@ -8,12 +8,13 @@
     <authors>8x8 Inc.</authors>
     <projectUrl>https://8x8.com</projectUrl>
 	<licenseUrl>https://www.8x8.com/terms-and-conditions</licenseUrl>
-    <iconUrl>https://www.8x8.com/icons/icon-512x512.png?v=34d63ccce2ad2b59d709decf27324b1c</iconUrl>
+    <iconUrl>https://ik.imagekit.io/8x8/v3/assets/blte621f0a2bd0e9f69/blta4e028304bef7560/5e594382eb1b970da9df9160/8x8_RedSquare_Logo_RGB.png</iconUrl>
     <copyright>2021 8x8, Inc. All rights reserved.</copyright>
     <tags>8x8work voip phone chat meetings work</tags>
     <summary>VoIP Software</summary>
     <description>8x8 Work</description>
     <releaseNotes>https://support.8x8.com/cloud-phone-service/voice/work-desktop/download-8x8-work-for-desktop#What's_new_in_this_release.3F</releaseNotes>
+	<packageSourceUrl>https://github.com/PadyLoki/Choco/tree/8x8work</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
